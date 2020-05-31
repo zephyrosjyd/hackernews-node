@@ -1,0 +1,12 @@
+{
+  "name": "hackernews-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/zephyrosjyd/hackernews-node.git",
+  "author": "Luke Youngdong Ji <zephyrosjyd@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3",
+    "prisma": "^1.34"
+  }
+}
